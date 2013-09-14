@@ -1,0 +1,5 @@
+E:\Dropbox\blankImageDetectionV2\blankImageDetectionV2\bin\Release\blankImageDetectionV2.exe
+E:\Dropbox\blankImageDetectionV2\blankImageDetectionV2\bin\Release\blankImageDetectionV2.pdb
+E:\Dropbox\blankImageDetectionV2\blankImageDetectionV2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Dropbox\blankImageDetectionV2\blankImageDetectionV2\obj\x86\Release\blankImageDetectionV2.exe
+E:\Dropbox\blankImageDetectionV2\blankImageDetectionV2\obj\x86\Release\blankImageDetectionV2.pdb
